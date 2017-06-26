@@ -14,4 +14,4 @@ RUNNING THE SAMPLE
    1. Start the websocket test server using maven
 
 
-      > mvn exe:java
+      > mvn exec:java
